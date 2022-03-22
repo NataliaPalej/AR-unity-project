@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="xboxBUTTON" size="1.000000 0.812239" />
+    <ImageTarget name="psBUTTON" size="1.000000 0.800000" />
+    <ImageTarget name="xboxLOGO" size="1.000000 0.911517" />
+    <ImageTarget name="PSlogo" size="1.000000 0.800000" />
+  </Tracking>
+</QCARConfig>
