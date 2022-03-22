@@ -12,6 +12,8 @@
 
 *com.ptc.vuforia.engine-10.4.4.tgz*
 
+Assets/Imported Models/
+
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
 
